@@ -1,5 +1,11 @@
 # This is a JavaScript based color game
-See how it looks..
+
+## Web Technology used
+1. HTML 
+2. CSS
+3. Bootstrap 4
+4. JavaScript
+
 ### Web view
 
 ![alt text](https://github.com/AdminAbhi/Web-dev-mini-Projects/blob/master/JavaScript-Color-Game/PC-view.png?raw=true)
