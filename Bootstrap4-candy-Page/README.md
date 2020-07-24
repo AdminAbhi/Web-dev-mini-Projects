@@ -3,7 +3,7 @@
 1. Responsive UI
 2. Adaptive navigation bar with gradiant color
 
-### Web Tool and Technology used:
+### Web Tools and Technology used:
 1. HTML
 2. CSS
 3. Bootstrap 4
