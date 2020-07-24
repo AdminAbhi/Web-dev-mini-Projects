@@ -9,6 +9,7 @@
 2. CSS
 3. Bootstrap 4
 4. JavaScript
+5. JQuery
 
 ## Web view:
 ![alt text](https://github.com/AdminAbhi/Web-dev-mini-Projects/blob/master/jQuery-To-Do-List/screenshots/Web-view.png?raw=true)
